@@ -1,1 +1,3 @@
-# REACT TRIAL  - Components, Routes, Bootstrap
+# REACT TRIAL  
+
+Components, Routes, Bootstrap
